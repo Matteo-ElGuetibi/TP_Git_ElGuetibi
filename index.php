@@ -12,6 +12,9 @@ and open the template in the editor.
     <body>
         <?php
         echo 'bonsoir';
+        ?><br/>
+        <?php
+        echo 'seconde ligne de programme pour utilisateur EL GUETIBI';
         ?>
     </body>
 </html>
