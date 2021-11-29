@@ -14,6 +14,7 @@ and open the template in the editor.
         echo 'bonsoir';
         ?><br/>
         <?php
+        echo 'seconde ligne de EL GUETIBI';
         echo 'erreur de tamim';
         ?>
     </body>
